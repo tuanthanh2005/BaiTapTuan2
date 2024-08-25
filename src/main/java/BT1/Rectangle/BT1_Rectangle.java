@@ -1,7 +1,7 @@
 /*
 
  */
-package Rectangle;
+package BT1.Rectangle;
 
 /**
  *
